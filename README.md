@@ -6,7 +6,7 @@ This analysis looks into the property dataset on Cambridge Open Data portal. The
 The objective for this analysis is to look into lot parcels in Cambridge, MA where accessory dwelling units (ADUs) are possible. Due to changing regulations in the city zoning code, these eligible lots have fluctuated over time, but the main factors are the area of the lot and the interior area of the house/dwelling unit.
 Data from [this location](https://data.cambridgema.gov/Assessing/Cambridge-Property-Database-FY16-FY20/eey2-rv59).
 
-## Maps:
+## Cambridge Map of Lots Currently Eligible for ADUs:
 ![Eligible Lots](Docs/Eligible-Lots.png)
 
 ## Zoning Code:
